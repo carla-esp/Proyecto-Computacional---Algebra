@@ -1,1 +1,3 @@
-Repositorio para Proyecto SVD relacionado al curso de Algebra Avanzada
+# Proyecto Computacional - Algebra Avanzada
+
+Repositorio para el proyecto SVD relacionado al curso de Álgebra Avanzada.
